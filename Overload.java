@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public  class Overflow {
+public  class Overload {
     static class Character {
         String name;
         double health;
@@ -63,5 +63,6 @@ public  class Overflow {
 
     }
 }
+
 
 
